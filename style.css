@@ -1,0 +1,15 @@
+:root {
+  --white: #ffffff;
+  --lightGray: #d6e2f0;
+  --grayishblue: #7b879d;
+  --darkblue: #1f3251;
+  --lightPurple: #3e52a3;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: var(--lightPurple);
+}
