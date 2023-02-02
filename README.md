@@ -4,6 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Completed challenge](./img/final.jpg)
 
+- Live Site URL: [](https://rstrzelczyk98.github.io/qr-code-component-main/)
+
 ## Built with
 
 - HTML
