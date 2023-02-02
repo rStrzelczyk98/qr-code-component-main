@@ -5,6 +5,9 @@
   --darkblue: #1f3251;
   --lightPurple: #3e52a3;
 }
+body {
+  font-family: "Outfit", sans-serif;
+}
 
 .attribution {
   font-size: 11px;
